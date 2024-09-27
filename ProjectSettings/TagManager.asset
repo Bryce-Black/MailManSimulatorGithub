@@ -11,6 +11,18 @@ TagManager:
   - TargetNormal
   - TargetRed
   - TargetBlue
+  - MailBox
+  - Door
+  - DoorKeyColor
+  - Fire
+  - Normal
+  - Metal
+  - Ice
+  - SpeedBoost
+  - JumpBoost
+  - TimeAdd
+  - LaunchPad
+  - ScreenInfoText
   layers:
   - Default
   - TransparentFX
